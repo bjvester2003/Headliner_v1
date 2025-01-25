@@ -1,7 +1,7 @@
 {    
     "presentation_options" : {
         "Toggle TTS" : true,  
-        "Toggle Automatic Continuation" : false,
+        "Toggle Automatic Continuation" : true,
         "Number of Articles Displayed": 5
     },
     "feed_options" : {
