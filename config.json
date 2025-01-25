@@ -1,0 +1,17 @@
+{    
+    "presentation_options" : {
+        "Toggle TTS" : true,  
+        "Toggle Automatic Continuation" : true,
+        "Number of Articles Displayed": 5
+    },
+    "feed_options" : {
+
+    },
+    "sources" : [
+        {
+            "News_Source_Name":"TheHackerNews",
+            "News_Source_Link":"https://thehackernews.com",
+            "News_Source_Abbreviation":"THN"
+        }
+    ]
+}
